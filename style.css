@@ -1,0 +1,31 @@
+/* Estrutura do site*/
+
+*{
+    margin:0;
+    padding:0;
+}
+
+body{
+    font-family: "Trebuchet", Helvetica, Arial, sans-serif;
+    background: #fff url(../NoticiasCidades-p3/img/fundo.png) repeat-x;
+}
+
+#container{
+    width:750px;
+    margin:0 auto;
+    border: 1px solid red
+}
+
+#topo {
+    height:150px;
+    border: 1px solid green;
+    padding-top: 25px;
+    background: url(../NoticiasCidades-p3/img/detalhe-topo.png) no-repeat right top
+}
+
+.logo{
+    width: 152px;
+    height: 66px;
+    background: url(../NoticiasCidades-p3/img/logo.png) no-repeat center;
+    text-indent: -3000px
+}
