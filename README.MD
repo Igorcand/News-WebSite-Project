@@ -2,7 +2,7 @@
 [![NPM](https://img.shields.io/npm/l/react)](https://github.com/Igorcand/News-WebSite-Project/blob/master/LICENSE) 
 
 # About the Project
-NEWS WEBSITE is a website developed using HTML and CSS with 3 types off layout
+NEWS WEBSITE is a website developed using HTML and CSS with 3 types of layout
 
 
 ## Layout 
